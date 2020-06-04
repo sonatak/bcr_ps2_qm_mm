@@ -1,6 +1,6 @@
 
 
-# MADRID SCRIPTS
+# MASTER THESIS SCRIPTS
 ## Repository contains python and shell scrips in order to perform different tasks for molecular modelling and data analysis.
 
 
